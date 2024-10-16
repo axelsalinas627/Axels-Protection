@@ -18,7 +18,7 @@ local function createControlButton()
 
     button.Name = "ToggleKillBlockButton"
     button.Size = UDim2.new(0, 100, 0, 25)
-    button.Position = UDim2.new(0.5, -43, 0, 23)
+    button.Position = UDim2.new(0.5, -50, 0, 23)
     button.Text = "Axels Protection"
     button.Parent = screenGui
 
